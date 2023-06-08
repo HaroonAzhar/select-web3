@@ -1,5 +1,5 @@
-# A guide on electing web library/framework to develop frontend app.
-There various option librries and complete application solutions to build web3 project. In this guide we'll just focus on the ones that helpus to create client-side application. 
+# A guide on selecting web library/framework to develop frontend app.
+There various option libraries and complete application solutions to build web3 project. In this guide we'll just focus on the ones that helpus to create client-side application. 
 
 The primary idea behind our discusion will be the level abstraction each library offers and what will be the required input to enable interaction with a blockchain network. 
 
